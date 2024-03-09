@@ -31,5 +31,10 @@ namespace KPL_MOD_3_1302220037_AFH
         {
 
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
